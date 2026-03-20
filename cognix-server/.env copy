@@ -1,0 +1,6 @@
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_dmFzdC1idWZmYWxvLTk3LmNsZXJrLmFjY291bnRzLmRldiQ
+
+MONGO_DB_USER=tanmaymirgal26_db_user
+MONGO_DB_PASSWORD=T0UKLSqvmUn29475
+
+MONGO_URI= mongodb+srv://tanmaymirgal26_db_user:T0UKLSqvmUn29475@cluster0.5aw0ko7.mongodb.net/cognix
