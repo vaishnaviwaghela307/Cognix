@@ -299,12 +299,64 @@ Please ensure your code adheres to the project's existing style and all tests pa
 
 ---
 
-## 📄 License
+## 👤 Author
 
-This project is **proprietary and confidential**.  
-Unauthorized copying, distribution, or modification of this software, in whole or in part, is strictly prohibited without explicit written permission from the authors.
+<div align="center">
 
-© 2025 Cognix. All rights reserved.
+<br />
+
+| | |
+|:---|:---|
+| **Author** | Vaishnavi Waghela |
+| **Role** | Sole Creator & Architect |
+| **Project** | Cognix — Assessment & Analysis Platform |
+
+<br />
+
+> *This project was solely conceptualized, designed, and developed by **Vaishnavi Waghela**.*  
+> *All architectural decisions, implementations, and intellectual assets are the exclusive work of the author.*
+
+<br />
+
+</div>
+
+---
+
+## 📄 License & Legal
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  PROPRIETARY SOFTWARE NOTICE                     ║
+║                                                                  ║
+║  This software and all associated files, documentation, and     ║
+║  assets are the exclusive intellectual property of              ║
+║                                                                  ║
+║               ✦  VAISHNAVI WAGHELA  ✦                           ║
+║                                                                  ║
+║  Unauthorized use, reproduction, modification, distribution,    ║
+║  or commercial exploitation of any part of this codebase —      ║
+║  in whole or in part — is strictly prohibited without           ║
+║  explicit prior written permission from the author.             ║
+║                                                                  ║
+║  Violations may result in legal action under applicable         ║
+║  intellectual property and copyright laws.                      ║
+║                                                                  ║
+║  © 2025 Vaishnavi Waghela. All Rights Reserved.                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+**You are NOT permitted to:**
+- ❌ Copy, clone, or fork this repository for personal or commercial use
+- ❌ Redistribute or resell any part of this software
+- ❌ Modify, reverse-engineer, or create derivative works
+- ❌ Use the codebase in any project without written authorization
+
+**To request permission or licensing:**  
+Please reach out directly to the author before use. Unauthorized usage will be treated as a violation of intellectual property rights.
 
 ---
 
