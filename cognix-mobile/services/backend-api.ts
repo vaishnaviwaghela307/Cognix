@@ -10,6 +10,7 @@
 const BACKEND_URL = process.env.EXPO_PUBLIC_BACKEND_URL || "http://192.168.0.235:3000";
 
 
+
 // Export as API_URL for compatibility with other services
 export const API_URL = BACKEND_URL;
 
