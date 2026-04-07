@@ -188,6 +188,7 @@ if __name__ == '__main__':
     # Initialize cron jobs for health checks
     # if os.getenv('ENABLE_CRON', 'false').lower() == 'true':
     #     initialize_cron_jobs()
+
     
     # Run the Flask app
     app.run(
